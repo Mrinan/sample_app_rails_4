@@ -1,4 +1,4 @@
-## Get started with railstutorial/sample_app_rails_4
+## Get started with rails tutorial/sample_app_rails_4
 
 Run the following commands in the console below:
 
@@ -11,6 +11,7 @@ Run the following commands in the console below:
 By clicking on Preview > Port 3000, you can now preview your sample
 Rails App.
 
+## Run tests
 To check out more code, you can run tests, edit code and continue to
 iterate on this application. To run the test suite, run the following
 commands in the console:
