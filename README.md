@@ -1,6 +1,6 @@
 # Ruby on Rails Tutorial: sample application
 
-This is the sample application for
+This is the sample application for a ruby on rails tutorial.
 [*Ruby on Rails Tutorial: Learn Web Development with Rails*](http://railstutorial.org/)
 by [Michael Hartl](http://michaelhartl.com/). You can use this reference implementation to help track down errors if you end up having trouble with code in the tutorial. In particular, as a first debugging check I suggest getting the test suite to pass on your local machine:
 
@@ -15,7 +15,7 @@ by [Michael Hartl](http://michaelhartl.com/). You can use this reference impleme
 
 If the tests don't pass, it means there may be something wrong with your system. If they do pass, then you can debug your code by comparing it with the reference implementation.
 
-## Get Started in seconds on Nitrous.IO
+## Get Started in a few seconds on Nitrous.IO
 
 [Nitrous.IO](https://www.nitrous.io/?utm_source=github.com&utm_campaign=railstutorial-sample_app_rails_4&utm_medium=hackonnitrous) is a cloud-based platform that will let you start working on this project in a matter of seconds.
 
